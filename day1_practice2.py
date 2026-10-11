@@ -1,4 +1,4 @@
-blow_count=[11, 48, 15, 38, 18, 62]
+blow_count=[11, 48, 15, 38, 1, 62]
 for bc in blow_count:
     if bc < 30:
         print("Blow count is in between 0 and 29. Normal Driving")
